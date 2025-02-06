@@ -92,6 +92,11 @@ a.secondary {
   min-width: 180px;
 }
 
+.main {
+  position: absolute;
+  width: 100%;
+}
+
 .footer {
   grid-row-start: 3;
   display: flex;
